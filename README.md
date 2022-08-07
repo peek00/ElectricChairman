@@ -54,7 +54,7 @@ Overall, this project taught me a lot of things about creating a ReactJS applica
 ![Death Animation](/images/deathGif.gif)
 
 
-![](../images/end.png)
+![](/images/end.png)
 
 
 
