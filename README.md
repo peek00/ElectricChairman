@@ -3,7 +3,7 @@
 
 **Electric Chairman** is a visually unique take on the classic hangman game. This was created during ByteDance's Youth Camp 2022 and served as my first introduction to `Javascript` and `ReactJS`. 
 
-I initially created the game with `HTML`, `CSS` and vanilla `Javascript` before having to convert over to using `ReactJS` framework at the last minute. The sprites were created with the help of [Piskel](https://www.piskelapp.com/).
+I initially created the game with `HTML`, `CSS` and vanilla `Javascript` before having to convert over to using `ReactJS` framework at the last minute. The sprites were created with the help of [Piskel](https://www.piskelapp.com/). Watch a quick video demo of the game [here](https://youtu.be/1JlDpZ1Sw8I)!
 
 ___
 
